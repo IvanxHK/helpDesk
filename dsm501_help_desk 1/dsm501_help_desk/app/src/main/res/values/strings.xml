@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">dsm501_help_desk</string>
+    <string-array name="devices">
+        <item>Desktop</item>
+        <item>Smartphone</item>
+        <item>Laptop</item>
+        <item>Tablet</item>
+        <item>Dispositivos de I/O</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>Cancelado</item>
+        <item>Aceptado</item>
+        <item>Atendido</item>
+    </string-array>
+
+    <string-array name="errors">
+        <item>Dejo de funcionar</item>
+        <item>Aparece un error</item>
+        <item>No enciende</item>
+        <item>No responde</item>
+        <item>Sufrió un siniestro</item>
+    </string-array>
+</resources>
